@@ -1,6 +1,9 @@
-<h1 align="center">Emesan22</h1>
-ヱメサンですが何か？<br><br>
-ステータス<br>
-  <a href="https://github.com/emesan22">
-    <img align="left" height="170" alt="My GitHub stats" src="https://github-readme-stats.qwerty541.vercel.app/api?username=emesan22&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
-  </a>
+# emesan22
+## about Me
+javaだとかJSとかの勉強中の<b>受験生</b>中２です。
+<br>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_dark) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_dark) 
+ <br>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+![emesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesan22&show_icons=true&theme=github_dark)
