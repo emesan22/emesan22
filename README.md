@@ -4,6 +4,4 @@ javaだとかJSとかの勉強中の<b>受験生</b>中２です。
 <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_dark) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_dark) 
- <br>
- <a href="https://github.com/anuraghazra/github-readme-stats">
 ![emesan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesan22&show_icons=true&theme=github_dark)
