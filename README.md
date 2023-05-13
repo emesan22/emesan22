@@ -1,6 +1,6 @@
 # emesan22
 ## about Me
-javaだとかJSとかの勉強中の<b>受験生</b>中２です。
+javaだとかJSとかの勉強中の<b>受験生</b>中３です。
 <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_dark) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_dark) 
