@@ -5,3 +5,4 @@ javaだとかJSとかの勉強中の<b>受験生</b>中３です。
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_dark) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_dark) 
 ![emesan's GitHub stats](https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats-self-three-47.vercel.app/api/top-langs/?username=emesan22&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
