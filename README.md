@@ -1,8 +1,15 @@
+![emesan](./img/backimg.png)
 # emesan22
-## about Me
-javaだとかJSとかの勉強中の<b>受験生</b>中３です。
+<p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_white" alt="emesan22" /></p>
+
+- 😊 私は15歳の**受験生**中学3年です!
+- 💬 私の二人称はSheまたはHeでお願いします!
+- 🗾 富山県生まれのハーフ人(日本とフィリピン)です!
+- 📃 KotlinやTypeScriptでプログラムを書いています!
+- 🖥️ 主にフロントエンドらへんを開発しています!
+- 🤖 たまにDiscrd Botを作っています!
 ## Status
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_dark) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_dark) 
-![emesan's GitHub stats](https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats-self-three-47.vercel.app/api/top-langs/?username=emesan22&layout=compact&hide=html&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22&theme=github_white) 
+<p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api/top-langs/?username=emesan22&layout=compact&hide=html&theme=github_white" alt="Most Laungage" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22&theme=github_white) 
