@@ -10,5 +10,5 @@
 - 🤖 たまにDiscrd Botを作っています!
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22)
-![](https://github-readme-stats-self-three-47.vercel.app/api/top-langs/?username=emesan22&layout=compact&hide=html&theme=github_white)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emesan22&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
