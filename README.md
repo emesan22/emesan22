@@ -9,7 +9,7 @@
 - 🖥️ 主にフロントエンドらへんを開発しています!
 - 🤖 たまにDiscrd Botを作っています!
 ## Status
-<p><img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22" alt="Status" /></p>  
+<p><img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22" alt="Status" /></p>
 <p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api/top-langs/?username=emesan22&layout=compact&hide=html&theme=github_white" alt="Most Laungage" /></p>  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
