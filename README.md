@@ -30,3 +30,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emesan22&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
+##
+ ![:name](https://moe-counter.glitch.me/get/@emesan22?theme=moebooru)
