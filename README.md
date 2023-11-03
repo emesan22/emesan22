@@ -26,6 +26,8 @@
 - 📃 KotlinやTypeScriptでプログラムを書いています!
 - 🖥️ 主にフロントエンドらへんを開発しています!
 - 🤖 たまにDiscrd Botを作っています!
+## いろいろ
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,materialui,tailwind,kotlin,java,gradle,git,github,discord,bots,bash,vscode,idea,vercel,misskey,cloudflare)](https://skillicons.dev)
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emesan22&theme=default)
