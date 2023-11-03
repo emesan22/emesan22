@@ -1,3 +1,4 @@
+![emesan](./img/backimg.png)
 <p align="left">
   <a href="https://github.com/emesan22/emesan22/">
     <img src="https://komarev.com/ghpvc/?username=emesan22" alt="emesan22" />
@@ -15,9 +16,9 @@
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/22785627?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
+<hr>
 
-![emesan](./img/backimg.png)
-# emesan22
+## わたしについて
 <p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_white" alt="emesan22" /></p>
 
 - 😊 私は15歳の**受験生**中学3年です!
@@ -28,9 +29,10 @@
 - 🤖 たまにDiscrd Botを作っています!
 ## いろいろ
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,materialui,tailwind,kotlin,java,gradle,git,github,discord,bots,bash,vscode,idea,vercel,misskey,cloudflare)](https://skillicons.dev)
-## Status
+## すて～たす
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emesan22&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
-##
+<hr>
+
  ![:name](https://moe-counter.glitch.me/get/@emesan22?theme=moebooru)
