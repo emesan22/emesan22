@@ -18,7 +18,7 @@
 </p>
 <hr>
 
-## わたしについて
+## わたしについて!
 <p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_white" alt="emesan22" /></p>
 
 - 😊 私は15歳の**受験生**中学3年です!
@@ -27,9 +27,9 @@
 - 📃 KotlinやTypeScriptでプログラムを書いています!
 - 🖥️ 主にフロントエンドらへんを開発しています!
 - 🤖 たまにDiscrd Botを作っています!
-## いろいろ
+## いろいろ!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,materialui,tailwind,kotlin,java,gradle,git,github,discord,bots,bash,vscode,idea,vercel,misskey,cloudflare)](https://skillicons.dev)
-## すて～たす
+## すて～たす!
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emesan22)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emesan22&theme=default)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emesan22) 
