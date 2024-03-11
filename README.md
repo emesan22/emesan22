@@ -19,7 +19,7 @@
 <hr>
 
 ## わたしについて!
-<p><img align="right" width="49%" src="https://github-readme-stats-self-three-47.vercel.app/api?username=emesan22&count_private=true&show_icons=true&theme=github_white" alt="emesan22" /></p>
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=emesan22" alt="emesan22" /></p>
 
 - 😊 私は15歳のもうすぐ卒業する中学3年です!
 - 💬 私の三人称はShe(またはHe)でお願いします!
